@@ -1,2 +1,2 @@
-# bccli
-Bouncy Castle CLI 
+# BCCLI
+Bouncy Castle CLI
